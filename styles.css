@@ -5,6 +5,7 @@ body {
 
 h1 {
   text-align: center;
+  font-family: sans-serif;
   font-size: 36px;
 }
 
@@ -19,7 +20,6 @@ select {
   font-size: 18px;
   border-radius: 4px;
   padding: 10px;
-  margin-bottom: 20px;
 }
 
 .container {
@@ -62,5 +62,4 @@ footer {
   text-align: center;
   font-size: 18px;
   color: rgba(0, 0, 0, 0.8);
-  margin-top: 30px;
 }
